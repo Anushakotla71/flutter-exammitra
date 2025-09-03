@@ -10,3 +10,5 @@
 ![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/40ad042cf5da1a4c1792330bb26ca0b568f7c2b1/gitexammitra_images/Screenshot%202025-09-01%20075444.png)
 ### arithmetics
 ![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/62af4eee1afa1e3f290d61b1e8d50d4749b1eae6/gitexammitra_images/Screenshot%202025-09-01%20075512.png)
+### Previous Papers
+![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/281f66241f32b176d12d9f6e56d3a9f670f5a925/gitexammitra_images/Screenshot%202025-09-01%20075534.png)
