@@ -20,3 +20,5 @@
 ![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/98d73da8ae365ad98f1d32901f0022aaca46b90c/gitexammitra_images/Screenshot%202025-09-01%20080706.png)
 ### Store
 ![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/630249814412784eed123b4aee768ced3a48290c/gitexammitra_images/Screenshot%202025-09-01%20080842.png)
+### Profile
+![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/a2d9d2a2435d874014b814fc477c24fbeedae538/gitexammitra_images/Screenshot%202025-09-01%20081022.png)
