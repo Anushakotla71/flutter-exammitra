@@ -14,3 +14,5 @@
 ![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/281f66241f32b176d12d9f6e56d3a9f670f5a925/gitexammitra_images/Screenshot%202025-09-01%20075534.png)
 ### Mock Test
 ![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/d7fb02b6735661176b585fbf63427f130c77b8a6/gitexammitra_images/Screenshot%202025-09-01%20075608.png)
+### Daily Quiz
+![image alt](https://github.com/Anushakotla71/flutter-exammitra/blob/e8432ad6178885f9727c5710d97ea3b09545bf51/gitexammitra_images/Screenshot%202025-09-01%20075643.png)
